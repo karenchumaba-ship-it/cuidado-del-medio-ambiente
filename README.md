@@ -14,3 +14,10 @@ En desarrollo. Se está organizando la información principal y se agregarán nu
 - Evitar el uso innecesario de plásticos.
 - Plantar y cuidar árboles y plantas.
 - Mantener limpios los espacios públicos.
+## Metas del proyecto
+1. Informar sobre las principales causas de la contaminación.
+2. Promover el reciclaje en la comunidad escolar.
+3. Motivar a los estudiantes a ahorrar agua y energía.
+4. Fomentar la participación en actividades de limpieza.
+## Importancia del proyecto
+Cuidar el medio ambiente es importante porque dependemos de la naturaleza para vivir. Con pequeños cambios en nuestros hábitos podemos contribuir a tener un entorno más limpio y saludable.
